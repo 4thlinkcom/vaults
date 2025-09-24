@@ -13,13 +13,3 @@
 
 - Begge modtager generelt høje vurderinger. Bitwarden kan vælges som både closed source og open source, hvilket gør det velegnet til alt fra små miljøer til avancerede enterprise-løsninger i både interne og eksterne host løsninger med/uden cloudflare.
 - Begge tilbyder stærk sikkerhed, bred platform-understøttelse og erhvervsfunktioner.
-
-> **Kilder:**  
-> - [Bitwarden Trustpilot](https://dk.trustpilot.com/review/bitwarden.com)  
-> - [1Password Trustpilot](https://dk.trustpilot.com/review/1password.com)  
-> - [Bitwarden Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)  
-> - [1Password Google Play](https://play.google.com/store/apps/details?id=com.onepassword.android)  
-> - [Bitwarden Apple App Store](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)  
-> - [1Password Apple App Store](https://apps.apple.com/us/app/1password-password-manager/id1511601750)  
-> - [Bitwarden Microsoft Store](https://apps.microsoft.com/detail/9pjsdv0vpk04?hl=da-DK&gl=DK)  
-> - [1Password Microsoft Store](https://apps.microsoft.com/detail/xp99c9g0krdz27?hl=da-DK&gl=DK)  
